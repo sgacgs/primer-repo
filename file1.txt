@@ -1,8 +1,12 @@
 Mi primer repo
 
-Hola mundo!
+Cambios de desarrollo
 
-Adiós mundo
+a=Hola mundo!
+b=Adiós mundo
+
+print(a)
+print(b)
 
 Añadiendo más texto
 Probando
